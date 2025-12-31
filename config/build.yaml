@@ -1,0 +1,6 @@
+# ZMKの推奨するカスタムビルド設定
+# リポジトリのルートに配置します
+
+include:
+  - board: nice_nano_v2
+    shield: crosses
